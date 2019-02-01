@@ -8,4 +8,8 @@ PLATFORMS
 DEPENDENCIES
 
 BUNDLED WITH
+<<<<<<< HEAD
    1.16.6
+=======
+   2.0.1
+>>>>>>> 7aecc79dc755bee6d99ae2d2cb50b3b6fc064117
